@@ -13,7 +13,8 @@
 If the program was in a state of increase or decrease, the calculator UI will fade BACK to its original colour to signify no percentage change. 
 
 - The program supports an info button feature, which will bring up a pop-up modal of information for the user (works in both light and dark mode) 
-![image](https://github.com/user-attachments/assets/830dfc6d-1148-4b4a-9779-4dae375e1465) ![image](https://github.com/user-attachments/assets/2cd61fc7-61a5-4445-8d29-b72ff5d5a124)
+![image](https://github.com/user-attachments/assets/3aafdd1f-898d-4da0-992c-09ce65268e7a) ![image](https://github.com/user-attachments/assets/115ce52f-183d-44d7-af8a-23aed914920d)
+
 
 - Which brings me to the next and last feature, a toggle light-dark mode.
 ![image](https://github.com/user-attachments/assets/9adfd69a-9afa-4b79-b6b8-b7b112c608e0) ![image](https://github.com/user-attachments/assets/e5826871-7abb-43df-bf2c-4ea6f8692bb3)
