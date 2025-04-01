@@ -2,7 +2,7 @@
 - A simple, yet effective percentage change calculator. Interface is designed to cater towards calculating very simple Stock Price changes to investors to calculate their simple-return; however, it can be used for any percentage-change purpose regardless. 
 ![image](https://github.com/user-attachments/assets/69ff54a0-a368-464d-950f-668c6d8983a8)
 
-- The user can very easily type in their initial and final value then press calculate. The user will then be met with the resulting data with a satisfying visual change in the interface. 
+- The user can very easily type in their initial and final value then press calculate, and the interface will change accordingly 
 ![image](https://github.com/user-attachments/assets/3aafdd1f-898d-4da0-992c-09ce65268e7a) ![image](https://github.com/user-attachments/assets/115ce52f-183d-44d7-af8a-23aed914920d)
 
 
