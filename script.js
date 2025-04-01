@@ -32,7 +32,7 @@ calculateButton.addEventListener('click', function(){
     if (Number(initialValue.value)===0){
         percentageChange.textContent = `0%`;
     } else {
-        percentageChange.textContent = `${Math.round(calculatedAnswer)}% 
+        percentageChange.textContent = `${Math.round(calculatedAnswer)}%  
         ${calculatedAnswer>0 ? '▲' : '▼'}`;
     }
 
